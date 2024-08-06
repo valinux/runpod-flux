@@ -50,8 +50,9 @@ workflow.json
 
 USE THE ARROW > TO ADJUST THE SETTINGS
 TO ADJUST YOUR WORKFLOW SETTINGS LIKE THIS:
-https://github.com/valinux/runpod-flux/blob/main/Screenshot%202024-08-06%20135141.png
-https://github.com/valinux/runpod-flux/blob/main/Screenshot%202024-08-06%20135150.png
+![https://example.com/path/to/image.png](https://github.com/valinux/runpod-flux/blob/main/Screenshot%202024-08-06%20135141.png)
+
+![image.png](https://github.com/valinux/runpod-flux/blob/main/Screenshot%202024-08-06%20135150.png)
 
 
 AFTER THAT CLICK [Queue Prompt]

@@ -1,25 +1,42 @@
 # runpod-flux
 Install Flux on ComfyUI on runpod by black-forest-labs Image AI Generator 
 
-######_Requirements_####
-
-runpod account at runpod.io 
+<b>######_Requirements_####</b>
+<br></br>
+runpod account from runpod.io 
+<br></br>
 YOU NEED:
+<br></br>
 RTX 3090 - Community cloud 0.22hr
+<br></br>
 37 GB RAM
+<br></br>
 50 GB Disk !!!!!!!!This needs to be edited on your template ADD 50GB of SPACE!!!!!!!!!
+<br></br>
 !!!!!Use ComfyUI template!!!!!!!!! "ashleykza/comfyui:2.3.5"
-
+<br></br>
 
 ##################
+<br></br>
 Go to your huddingface account at:
+<br></br>
 https://huggingface.co/settings/profile
+<br></br>
 !!!!!!!!Create an access token with all privilages needed to download the files needed to run flux.!!!!!!!!!
-
-Once the server is running connect to port 8888 and upload install33.sh anywhere on the server and run the command: bash install33.sh AFTER YOU ADDED WITH YOUR ACCESS TOKEN FROM HUGGINGFACE TO install33.sh
-
+<br></br>
+EDIT install33.sh WITH THE ACCESS TOKEN YOU GOT FROM HUGGING FACE
+<br></br>
+connect to port 8888 on runpod
+<br></br>
+upload install33.sh anywhere on the server
+<br></br>
+run the command: bash install33.sh 
+<br></br>
+<br></br>
 ##################
+<br></br>
 NOW CONNECT TO PORT 3000 ON YOUR RUNPOD SERVER.
+<br></br>
 GO TO:
 
 1. CLICK ON MANAGER

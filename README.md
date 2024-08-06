@@ -4,6 +4,7 @@ Install Flux on ComfyUI on runpod by black-forest-labs Image AI Generator
 ######_Requirements_####
 
 runpod account at runpod.io 
+YOU NEED:
 RTX 3090 - Community cloud 0.22hr
 37 GB RAM
 50 GB Disk !!!!!!!!This needs to be edited on your template ADD 50GB of SPACE!!!!!!!!!

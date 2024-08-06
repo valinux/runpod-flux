@@ -33,4 +33,4 @@ workflow.json
 USE THE ARROW > 
 TO ADJUST THE SETTINGS LIKE THIS:
 
-![Example Image](images/example.png) 
+![Example Image](Screenshot 2024-08-06 135141.png) 

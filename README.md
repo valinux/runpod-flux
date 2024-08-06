@@ -15,7 +15,7 @@ Go to your huddingface account at:
 https://huggingface.co/settings/profile
 !!!!!!!!Create an access token with all privilages needed to download the files needed to run flux.!!!!!!!!!
 
-Once the server is running connect to port 8888 and upload install33.sh AFTER YOU ADDED WITH YOUR ACCESS TOKEN FROM HUGGINGFACE
+Once the server is running connect to port 8888 and upload install33.sh anywhere on the server and run the command: bash install33.sh AFTER YOU ADDED WITH YOUR ACCESS TOKEN FROM HUGGINGFACE TO install33.sh
 
 ##################
 NOW CONNECT TO PORT 3000 ON YOUR RUNPOD SERVER.
@@ -30,7 +30,11 @@ GO TO:
 UPLOAD WORKFLOW FILE FROM THIS DEPOSITORY 
 workflow.json
 
-USE THE ARROW > 
-TO ADJUST THE SETTINGS LIKE THIS:
+USE THE ARROW > TO ADJUST THE SETTINGS
+TO ADJUST YOUR WORKFLOW SETTINGS LIKE THIS:
+https://github.com/valinux/runpod-flux/blob/main/Screenshot%202024-08-06%20135141.png
+https://github.com/valinux/runpod-flux/blob/main/Screenshot%202024-08-06%20135150.png
 
-[![Example Image]([Screenshot 2024-08-06 135141.png](https://github.com/valinux/runpod-flux/blob/main/Screenshot%202024-08-06%20135150.png)) ](https://github.com/valinux/runpod-flux/blob/main/Screenshot%202024-08-06%20135150.png)
+
+AFTER THAT CLICK [Queue Prompt]
+

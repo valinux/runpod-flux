@@ -33,4 +33,4 @@ workflow.json
 USE THE ARROW > 
 TO ADJUST THE SETTINGS LIKE THIS:
 
-![Example Image](Screenshot 2024-08-06 135141.png) 
+[![Example Image]([Screenshot 2024-08-06 135141.png](https://github.com/valinux/runpod-flux/blob/main/Screenshot%202024-08-06%20135150.png)) ](https://github.com/valinux/runpod-flux/blob/main/Screenshot%202024-08-06%20135150.png)

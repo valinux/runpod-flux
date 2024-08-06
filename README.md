@@ -31,9 +31,9 @@ connect to port 8888 on runpod
 upload install33.sh anywhere on the server
 <br></br>
 run the command: bash install33.sh 
-{% highlight bash %}
+<br></br>
 bash install33.sh
-{% endhighlight %}
+<br></br>
 <br></br>
 <br></br>
 ##################
